@@ -1,0 +1,13 @@
+---
+Name: eform-rente-e2070
+---
+# Signature defaults (mm from the top-left corner of the LANDSCAPE page 2, next to "7.3 Unterschrift").
+# Every copy of page 2 (periods 9-16) is signed at the same position.
+# PDFMultiFormPage.SignaturePositionX / SignaturePositionY in the CMS take precedence.
+#
+# Kalakotra\EFormRenteE2070\Model\Submission:
+#   signature_position:
+#     x: 234.0
+#     y: 182.0
+#     width: 28.0
+#   replacement_font: 'fonts/LiberationSans-Regular.ttf'   # '' = disabled (then values are transliterated to ASCII)
